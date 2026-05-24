@@ -1,5 +1,4 @@
-# Portfolio Optimization using Python
-
+# Portfolio Optimization using Modern Portfolio Theory (MPT)
 ## Overview
 This project applies Modern Portfolio Theory (MPT) to optimize a portfolio of stocks using Python.
 
