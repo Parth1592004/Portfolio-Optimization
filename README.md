@@ -1,4 +1,5 @@
 # Portfolio Optimization using Modern Portfolio Theory (MPT)
+
 ## 📌 Project Overview
 
 This project applies Modern Portfolio Theory (MPT) to optimize a stock portfolio using Python.
@@ -11,15 +12,8 @@ The system:
 - Visualizes the Efficient Frontier
 
 The objective is to identify the optimal portfolio allocation that provides the best risk-adjusted return.
-  
-  ## 🛠 Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- yFinance
-- SciPy
+---
 
 ## 📚 Finance Concepts Used
 
@@ -31,12 +25,18 @@ The objective is to identify the optimal portfolio allocation that provides the 
 - Covariance Matrix
 - Efficient Frontier
 
-## Stocks Used
-- Apple (AAPL)
-- Microsoft (MSFT)
-- Google (GOOGL)
-- Amazon (AMZN)
-- Tesla (TSLA)
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- yFinance
+- SciPy
+
+---
 
 ## ⚙️ Project Workflow
 
@@ -47,16 +47,23 @@ The objective is to identify the optimal portfolio allocation that provides the 
 5. Generate Efficient Frontier visualization
 6. Analyze optimal portfolio allocation
 
+---
+
 ## 📊 Results & Insights
 
-- The optimized portfolio achieved a better risk-adjusted return compared to random allocations.
+- The optimized portfolio achieved better risk-adjusted returns compared to random allocations.
 - Diversification reduced overall portfolio volatility.
 - Sharpe Ratio optimization helped identify efficient asset allocation.
-- The Efficient Frontier visualization demonstrates the relationship between portfolio risk and expected return.
+- The Efficient Frontier demonstrates the relationship between portfolio risk and expected return.
+- Portfolio optimization improves decision-making by balancing returns with risk exposure.
+
+---
 
 ## 📈 Efficient Frontier Visualization
 
 ![Efficient Frontier](efficient_frontier.png)
+
+---
 
 ## 🚀 Future Improvements
 
@@ -65,6 +72,9 @@ The objective is to identify the optimal portfolio allocation that provides the 
 - Compare Equal Weight vs Optimized Portfolio
 - Build Interactive Dashboard using Streamlit
 - Add Real-Time Portfolio Tracking
-  
-## Author
+
+---
+
+## 👨‍💻 Author
+
 Parth Bhanushali
