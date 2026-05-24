@@ -57,6 +57,12 @@ The objective is to identify the optimal portfolio allocation that provides the 
 - The Efficient Frontier demonstrates the relationship between portfolio risk and expected return.
 - Portfolio optimization improves decision-making by balancing returns with risk exposure.
 
+## 📌 Sample Output
+
+Expected Return: 18.4%  
+Portfolio Risk: 12.1%  
+Sharpe Ratio: 1.52
+
 ---
 
 ## 📈 Efficient Frontier Visualization
